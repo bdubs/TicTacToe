@@ -1,0 +1,18 @@
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.Form1.resources
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.Properties.Resources.resources
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.exe
+C:\Documents and Settings\EXCEL\my documents\visual studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.exe
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\bin\Debug\ticTacToe.exe
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\bin\Debug\ticTacToe.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.Form1.resources
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\ticTacToe.Properties.Resources.resources
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Debug\GenerateResource.write.1.tlog

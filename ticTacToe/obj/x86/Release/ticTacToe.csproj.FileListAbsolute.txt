@@ -1,0 +1,9 @@
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\bin\Release\ticTacToe.exe
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\bin\Release\ticTacToe.pdb
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\ticTacToe.Form1.resources
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\ticTacToe.Properties.Resources.resources
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\ticTacToe.exe
+C:\Users\vost3550\Documents\Visual Studio 2010\Projects\ticTacToe\ticTacToe\obj\x86\Release\ticTacToe.pdb
